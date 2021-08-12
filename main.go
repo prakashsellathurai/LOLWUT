@@ -5,7 +5,6 @@ import (
 	"math"
 	"math/rand"
 	"time"
-
 	"github.com/fogleman/gg"
 )
 
